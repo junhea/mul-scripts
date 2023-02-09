@@ -1,4 +1,4 @@
-// @name::bandcamp
+// @name::bandcamp_test
 // @author::mul
 // @homepage::bandcamp.com
 // @version::1.0
